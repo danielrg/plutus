@@ -15,3 +15,6 @@ pkg/
 Gemfile.lock
 *.gem
 coverage
+
+# Ignore IDE config files
+/.idea/
